@@ -1,7 +1,10 @@
-# 🧠 Java Study
-2023-12-20일 부터 시작되었습니다.
-자바에 대한 이해도를 증진시키기 위한 목적을 가진 스터디이며<br>
-공부를 위해 "자바의 정석" 책을 사용하였습니다.
+# Java Study
+✨ **목적**: 자바에 대한 이해도를 증진<br>
+📖 **교안**: 자바의 정석<br>
+😄 **대상**: 대학 전공 SW개발 동아리원<br>
+🎊 **시작일**: 2023-12-20일<br>
+
+**💡 오타 및 개선사항은 Issue를 통해 알려주세요.**
 
 <h2> ✈ Study member </h2>
 😍 <a href="https://github.com/dnjfvnf123">Kim DongHwan</a><br>
@@ -9,6 +12,7 @@
 😍 <a href="https://github.com/pjs0519">Park JunSung</a><br>
 😍 <a href="https://github.com/this2jun">Lee Jun</a>
 
+***
 # JAVA의 정석 Chapter
 ### Chapter1 JAVA(JAVA Programming Language)<br>
 - https://velog.io/@dnjfvnf123/JAVA1 (2023-12-21)
