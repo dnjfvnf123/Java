@@ -1,6 +1,6 @@
 # Java의 정석 요약
 ### Chapter1 JAVA(JAVA Programming Language)<br>
-https://velog.io/@dnjfvnf123 (2023-12-20)
+https://velog.io/@dnjfvnf123/JAVA1 (2023-12-21)
 
 ### Chapter2 변수(Variable)<br>
 https://velog.io/@dnjfvnf123 (2023-12-20) 
