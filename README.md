@@ -18,7 +18,7 @@
 - https://velog.io/@dnjfvnf123/JAVA1 (2023-12-21)
 
 ### Chapter2 변수(Variable)<br>
--  (20--) 
+- https://velog.io/@dnjfvnf123/JAVA2  (2023-12-25) 
 
 ### Chapter3 연산자(Operator)<br>
 -  (20--) 
