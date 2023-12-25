@@ -27,7 +27,7 @@
 - https://velog.io/@dnjfvnf123/JAVA4 (2023-12-25)
 
 ### Chapter5 배열(Array)
--  (20--)
+- https://velog.io/@dnjfvnf123/JAVA5 (2023-12-25)
  
 ### Chapter6 객체지향프로그래밍 I<br>
 -  (20--)
