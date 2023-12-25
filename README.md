@@ -24,7 +24,7 @@
 - https://velog.io/@dnjfvnf123/JAVA3  (2023-12-25) 
 
 ### Chapter4 조건문과 반복문<br>
--  (20--)
+- https://velog.io/@dnjfvnf123/JAVA4 (2023-12-25)
 
 ### Chapter5 배열(Array)
 -  (20--)
