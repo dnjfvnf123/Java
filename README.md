@@ -21,7 +21,7 @@
 - https://velog.io/@dnjfvnf123/JAVA2  (2023-12-25) 
 
 ### Chapter3 연산자(Operator)<br>
-- https://velog.io/@dnjfvnf123/JAVA3  (20-12-25) 
+- https://velog.io/@dnjfvnf123/JAVA3  (2023-12-25) 
 
 ### Chapter4 조건문과 반복문<br>
 -  (20--)
