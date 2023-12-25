@@ -33,16 +33,16 @@
 - https://velog.io/@dnjfvnf123/JAVA6 (2023-12-25)
 
 ### Chapter7 객체지향프로그래밍 II<br>
+- https://velog.io/@dnjfvnf123/JAVA7 (2023-12-25)
+
+### Chapter8 예외처리(Exception Handling) <br>
 -  (20--)
 
-### Chapter8 <br>
+### Chapter9 java.lang패키지와 유용한 클래스 <br>
 -  (20--)
 
-### Chapter9 <br>
+### Chapter10 날짜와 시간 & 형식화 <br>
 -  (20--)
 
-### Chapter10 <br>
--  (20--)
-
-### Chapter11 <br>
+### Chapter11 컬렉션 프레임워크(Collections Framework) <br>
 -  (20--)
